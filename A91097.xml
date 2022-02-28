@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions concerning the printing of the Bible in the original and other learned languages.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91097</idno>
+            <idno type="STC">Wing P3777A</idno>
+            <idno type="STC">Thomason 669.f.16[87]</idno>
+            <idno type="STC">ESTC R211656</idno>
+            <idno type="EEBO-CITATION">99870366</idno>
+            <idno type="PROQUEST">99870366</idno>
+            <idno type="VID">163240</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163240)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions concerning the printing of the Bible in the original and other learned languages.</title>
+                  <author>Walton, Brian, 1600-1661 Biblia Sacra polyglotta.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Norton for Timothy Garthwait stationer, at the lesser North-gate of S. Pauls Church, London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Proposal for subscriptions to the Biblia sacra polyglotta [1657], edited by Brian Walton. According to the DNB article on Walton, this the first English-produced polyglot Bible and the first book printed by subscription in England.</note>
+                  <note>Page two begins: VVe whose names are subscribed, do hereby promise to pay the several sums by us underwritten, upon the propositions for printing the Bible in the original and other learned languages, ..</note>
+                  <note>Annotation on Thomason copy; Thomason tract microfilm copy difficult to read; Thomason has corrected and expanded the names of those involved in the production; "ffeb: 1652"; 3 in imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Publication and distribution --  Early works to 1800.</term>
+               <term>Bible --  Versions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163240:1" rendition="simple:additions"/>
+            <head>Propoſitions concerning the Printing of the Bible in the Original and other Learned Languages.</head>
+            <p>WHereas the former <hi>Editions</hi> though leſſe perfect, and not ſo fit for uſe, have been Print<g ref="char:EOLhyphen"/>ed the publick Charge of <hi>Princes</hi> and great Perſons, and the Charge of this Work will exceed the Ability of an ordinary perſon: Whereupon divers <hi>Perſons</hi> of <hi>Worth</hi> have expreſſed their readineſs to joyn in the Charge of the <hi>Impreſſion,</hi> and it is hoped that others who wiſh well to <hi>Learning</hi> and <hi>Religion</hi> will aſſiſt in a Work ſo much tending to the <hi>publick good,</hi> and <hi>Honour of the Church</hi> and <hi>Nation,</hi> and ſo free from <hi>Intereſt</hi> of all parties, eſpecially conſidering, that as the Edition will be much better then any formerly made, ſo the price will be much leſſe.</p>
+            <p>Therefore for the ſecuring of all ſuch as ſhall promote ſo good a Work, either by <hi>free gift,</hi> or <hi>advan<g ref="char:EOLhyphen"/>cing</hi> of Moneys to be repaid by Copies, and for the encouraging of ſuch as ſhall ſolicit and ſtir up others to <hi>contribute,</hi> theſe Propoſitions are offered, which ſhall God willing be performed.</p>
+            <p n="1">1. That whatſoever Moneys ſhall be raiſed, ſhall be paid into the Hands of <hi>William Humble</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Eſquire, <hi>Treaſurer</hi> for this purpoſe, who will be accomptable for the Moneys received, and will give receipts to every one that ſhall pay in any Moneys, whereby they may be aſſured that the ſame ſhall be employed no otherwiſe then for the uſe intended, and not iſſued out but by Warrant of ſuch perſons as are hereafter mentioned.</p>
+            <p n="2">2. The like aſſurance ſhall be given for receiving of Copies proportionable to the ſummes ſo paied, which ſhall be put into the hands of ſome perſons Intereſted, reſiding in <hi>London,</hi> to be delivered as ſoon as the Work ſhall be finiſhed, or otherwiſe as the ſeveral Volumes ſhall be printed, according as ſhall be adviſed by counſel on the behalf of the ſubſcribers, and this ſhall be drawn up into Articles, before any Moneys ſhall be payed.</p>
+            <p n="3">3. The <hi>Treaſurer</hi> ſhall not iſſue any Moneys, but by Warrant under the Hands of the Lord Primate of <hi>Armagh,</hi> D. <hi>William Fuller,</hi> D. <hi>Brune Rieves,</hi> D. <hi>Samuel Baker,</hi> M. <hi>Richard Drake,</hi> B. D. or two of them, whereof the Lord <hi>Primate,</hi> or D. <hi>Fuller,</hi> to be one, and ſhall give <hi>Accompt</hi> every <hi>ſix moneths</hi> to four perſons appointed by thoſe that advance, to receive the Accompts of all Moneys received, or iſſued out, which ſhall be ſhewed to all perſons intereſted who ſhall deſire the ſame.</p>
+            <p n="4">4. Thoſe that by <hi>free gift</hi> or otherwiſe ſhall in any conſiderable manner further the Work, beſide <hi>Co<g ref="char:EOLhyphen"/>pies</hi> to be given them, ſhall be acknowledged <hi>Patrons</hi> and <hi>Promoters</hi> of ſo <hi>noble a Work.</hi>
+            </p>
+            <p n="5">5. Thoſe that ſhall <hi>collect</hi> and <hi>raiſe any ſum</hi> by the <hi>free contribution</hi> of Perſons well affected, ſhall for every ten pounds have one Copie: and if any leſſer ſum of 40. s. or upwards be ſo raiſed by any at pre<g ref="char:EOLhyphen"/>ſent, if the ſaid ſum ſhall be made up 10. li. by equal payments in four ſix <hi>moneths</hi> next following, he ſhall have <hi>one perfect Copie,</hi> and 10 according to that proportion for any greater Sum.</p>
+            <p n="6">6. Thoſe who ſhall advance any ſum out of their own eſtate, ſhall for every 10 li. have <hi>one Copie,</hi> and for 50. li. <hi>ſix Copies,</hi> and ſo for any greater ſum, and the moneys ſo advanced ſhall for the <hi>Eaeſe</hi> and <hi>Se<g ref="char:EOLhyphen"/>curity</hi> of the Advancers be paid thus: only a <hi>fifth part</hi> in hand, and the reſt in 4 <hi>ſix moneths,</hi> and at every ſix moneths Payment, <hi>Account</hi> ſhall be given of the Moneys formerly paid, and of the <hi>Progreſs</hi> of the Work, and then they may alſo receive ſuch Volumes as ſhall be finiſhed, according to the number of Copies due to them, if they pleaſe, they paying another fift part towards the printing of the next Vo<g ref="char:EOLhyphen"/>lume. And if 50 li. ſhall be raiſed by ſeveral perſons, the ſixth Copy ſhall be to him that procureth their ſubſcriptions.</p>
+            <p n="7">7. The perſons that will aſſiſt in preparing of Copies, correcting the Preſſe, over ſeeing and managing the work, or otherwiſe in furthering the Edition, are D. <hi>Stokes,</hi> Mr. <hi>Whillock,</hi> Mr. <hi>Thorndike,</hi> Mr. <hi>Ed<g ref="char:EOLhyphen"/>ward Pococke,</hi> Mr. <hi>Buckley,</hi> Mr. <hi>Graves,</hi> Mr. <hi>Vicars,</hi> Mr. <hi>Thomas Smith,</hi> together with Dr. <hi>Walton,</hi> and ſome other to aſſiſt in Proſecution of Buſineſſe, &amp;c. and if any of them ſhall be other wiſe hindred, ſome other ſhall be nominated, for carrying on the work, wherein the Advice of the L. <hi>Primate,</hi> M. <hi>Selden,</hi> D. <hi>Shelden,</hi> D. <hi>Sanderſon,</hi> D. <hi>Stern,</hi> D. <hi>Hammond,</hi> D. <hi>Fearne, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+               </hi> and other learned Men, who have approved the work ſhall be deſired as occaſion ſhall require.</p>
+            <p n="8">8. The work ſhall not be begun till there be enough paid in to finiſh the firſt Volume. <hi>viz.</hi> the <hi>Penta<g ref="char:EOLhyphen"/>teuch,</hi> viz. 1500. li. nor the other volumes, till a proportionable ſum for each be brought in, <hi>viz.</hi> about 1200. li.</p>
+            <p n="9">9. It is deſired that the firſt payment of Moneys to be advanced, may be at or before the firſt of <hi>May,</hi> 1653. and if it ſhall appear there is enough to print the Firſt Volume, <hi>viz.</hi> the <hi>Pentateuch</hi> the work ſhall be begun as ſoon as things needful can be prepared, which is hoped will be within three Moneths then next folowing, and within three Years after, it is hoped the whole work will be perfected: (two Preſſes being kept at work.)</p>
+            <p n="10">10. Whatſoever ſhall be further reaſonably deviſed or propounded for the better managing and car<g ref="char:EOLhyphen"/>rying on of the Works, and ſecuring of all Perſons intereſted, ſhall be willingly aſſented unto.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>R. Norton</hi> for <hi>Timothy Garthwait</hi> Stationer, at the leſſer North-gate of S. <hi>Pauls</hi> Church, <hi>London.</hi> 1653.</p>
+         </div>
+         <div type="promissory_note">
+            <pb facs="tcp:163240:2"/>
+            <p>WE whoſe Names are ſubſcribed, do hereby promiſe to pay the ſeveral Sums by us underwritten, upon the Propoſitions for Printing the Bible in the O<g ref="char:EOLhyphen"/>riginal and other learned Languages, according to a Deſcription, and <hi>Spe<g ref="char:EOLhyphen"/>cimen</hi> there of Printed. Which Sums ſhall be paid in one or more Payments, accord<g ref="char:EOLhyphen"/>ing as is ſubſcribed. Provided that before payment of the ſaid Moneyes, it ſhall be certified under the Hand of the Treaſurer, that the Subſcriptions and Contributions, will amount to ſuch a Sum as will be ſufficient for carrying on the Work, according to the ſaid Propoſitions: and that ſuch order be taken for ſecuring the Copies to the Subſcribers, as by adviſe of Councel on their behalf ſhall be thought reaſonable, and juſt.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
